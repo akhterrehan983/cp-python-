@@ -1,3 +1,6 @@
+Time Complexity: O(n+k)
+Auxiliary Space: O(k)
+
 (Modular Inversion technique) for nCk
 
 1. The general formula of nCr is ( n*(n-1)*(n-2)* … *(n-r+1) ) / (r!). 
