@@ -1,4 +1,5 @@
 https://www.geeksforgeeks.org/modulo-1097-1000000007/
+https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 To find (x/y)%m 
 y_inv = mmi(y,m)
